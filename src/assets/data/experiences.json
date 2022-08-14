@@ -2,8 +2,8 @@
     {
         "id": 1,
         "position": 1,
-        "startAt": "18-05-2018",
-        "endAt": "18-05-2020",
+        "startAt": "05-18-2018",
+        "endAt": "05-18-2020",
         "companyName": "SecureLayer7 Pvt Ltd",
         "website": "http://www.securelayer7.net/",
         "logo": "assets/template/experience/logo/securelayer7-logo.png",
@@ -31,8 +31,8 @@
     {
         "id": 2,
         "position": 2,
-        "startAt": "18-05-2020",
-        "endAt": "18-06-2021",
+        "startAt": "05-18-2020",
+        "endAt": "06-18-2021",
         "companyName": "SecureLayer7 Pvt Ltd",
         "website": "http://www.securelayer7.net/",
         "logo": "assets/template/experience/logo/securelayer7-logo.png",
