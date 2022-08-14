@@ -2,7 +2,7 @@ export const environment = {
   production: true,
   // replace the data below with your personal data
   personal: {
-    caricature: "tms-illustration.png",
+    caricature: "tms-Illustration.png",
     name: "Touhid M Shaikh",
     birth: "1993-02-22",
     email: "tms@touhidshaikh.com",
