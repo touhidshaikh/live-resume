@@ -30,7 +30,7 @@
     },
     {
         "id": 2,
-        "position": 1,
+        "position": 2,
         "startAt": "18-05-2020",
         "endAt": "18-06-2021",
         "companyName": "SecureLayer7 Pvt Ltd",
@@ -59,7 +59,7 @@
     },
     {
         "id": 3,
-        "position": 6,
+        "position": 3,
         "startAt": "05-01-2022",
         "companyName": "Swisscom AG",
         "website": "https://www.swisscom.ch/",
