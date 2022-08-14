@@ -15,15 +15,16 @@ export const environment = {
   },
   // replace the dummy data below with the real firebase configs
   firebaseConfig: {
-    apiKey: "AIzaSyC2frVRAAltsVTmdwgFnATGHoVUzNHfzsM",
-    authDomain: "live-resume-a575a.firebaseapp.com",
-    databaseURL: "https://live-resume-a575a.firebaseio.com",
-    projectId: "live-resume-a575a",
-    storageBucket: "live-resume-a575a.appspot.com",
-    messagingSenderId: "681076751855",
-    appId: "1:681076751855:web:18bae3866ebfcc4fcd8a1a",
-    measurementId: "G-00VXD77WNG"
+    apiKey: "AIzaSyDfSyfjyivYzTHcLjmbtGSIPfUR1UsBrno",
+    authDomain: "tms-live-resume.firebaseapp.com",
+    databaseURL: "https://tms-live-resume.firebaseapp.com",
+    projectId: "tms-live-resume",
+    storageBucket: "tms-live-resume.appspot.com",
+    messagingSenderId: "4041059993",
+    appId: "1:4041059993:web:b8a92089843e134e669208",
+    measurementId: "G-VRVLYZWJ8L"
   }
+
 };
 
 /*
